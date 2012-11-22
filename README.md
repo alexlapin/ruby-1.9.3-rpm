@@ -1,4 +1,9 @@
-ruby-1.9.3-rpm
+RHEL/CentOS 5/6
+==============
+
+I use this spec to make rpm and install ruby 1.9.3-p327 to CentOS 5.5 x86_64
+
+How to install ruby-1.9.3-rpm
 ==============
 
 Create rpm for ruby 1.9.3-p327
