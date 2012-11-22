@@ -1,4 +1,4 @@
-%define rubyver         1.9.3
+﻿%define rubyver         1.9.3
 %define rubyminorver    p327
 
 Name:           ruby
